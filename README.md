@@ -19,3 +19,12 @@ https://learn.microsoft.com/zh-cn/cpp/build/cmake-projects-in-visual-studio?view
 ### 排查 CMake 缓存错误
 
 ## 生成 CMake 项目
+
+### 编辑生成设置
+
+## 调试 CMake 项目
+
+### CMake 项目的“编辑并继续”功能
+
+### 附加到在 Linux 上运行的 CMake 项目
+
