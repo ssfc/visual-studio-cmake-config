@@ -4,3 +4,7 @@ Visual Studio 中的 CMake 项目
 
 https://learn.microsoft.com/zh-cn/cpp/build/cmake-projects-in-visual-studio?view=msvc-170&viewFallbackFrom=vs-2019
 
+## 安装
+
+显然vs已经装好了cmake. 
+
