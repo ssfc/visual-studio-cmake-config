@@ -8,3 +8,5 @@ https://learn.microsoft.com/zh-cn/cpp/build/cmake-projects-in-visual-studio?view
 
 显然vs已经装好了cmake. 
 
+## IDE 集成
+
