@@ -28,3 +28,23 @@ https://learn.microsoft.com/zh-cn/cpp/build/cmake-projects-in-visual-studio?view
 
 ### 附加到在 Linux 上运行的 CMake 项目
 
+## CMake 部分激活
+
+## 打开现有缓存
+
+### 高级 CMake 缓存故障排除
+
+## 编辑 *`CMakeLists.txt`* 文件
+
+### CMake 的语言服务
+
+### CMake 项目操作
+
+## CMake 项目的 IntelliSense
+
+### 使用 CMake 工具链文件配置 IntelliSense
+
+## Vcpkg 集成
+
+## 从命令行运行 CMake
+
