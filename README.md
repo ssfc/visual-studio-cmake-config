@@ -17,3 +17,5 @@ https://learn.microsoft.com/zh-cn/cpp/build/cmake-projects-in-visual-studio?view
 ### 自定义配置反馈和通知
 
 ### 排查 CMake 缓存错误
+
+## 生成 CMake 项目
